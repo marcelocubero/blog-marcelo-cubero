@@ -42,9 +42,9 @@ superuser: true
 title: Marcelo Cubero Sibaja
 ---
 
-Marcelo Cubero Sibaja es un geógrafo, consultor independiente, egresado de Bachillerado y Licenciatura de la Universidad de Costa Rica. Actualmente está estudiando la Maestría Profesional en Sistemas de Información Geográfica y Teledetección de la Universidad Nacional y La Universidad de Costa Rica. 
+Marcelo Cubero Sibaja es un geógrafo, consultor independiente, egresado de Bachillerado y Licenciatura de la Universidad de Costa Rica. Actualmente está cursando la Maestría Profesional en Sistemas de Información Geográfica y Teledetección de la Universidad Nacional y la Universidad de Costa Rica. 
 
-Es un profesional apasionado de lo que hace. Amante de los Sistemas de Información Geográfica y del trabajo de campo. 
+Es un profesional apasionado de lo que hace. Apasionado de los Sistemas de Información Geográfica y del trabajo de campo. 
 
 Explorador de rutas de ciclismo, amante del fútbol y los perros. 
 
