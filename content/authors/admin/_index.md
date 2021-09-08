@@ -11,7 +11,7 @@ education:
   - course: Bachillerato en Geografía
     institution: Universidad de Costa Rica
     year: 2017
-email: ""
+email: "mcubero11@gmail.com"
 highlight_name: false
 interests:
 - Sistemas de Información Geográfica
