@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio:
 education:
   courses:
   - course: Maestría en Sistemas de Información Geográfica y Teledetección (cursando actualmente)
