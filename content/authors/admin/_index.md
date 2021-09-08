@@ -1,5 +1,5 @@
 ---
-bio:
+bio: Geógrafo Marcelo Cubero Sibaja
 education:
   courses:
   - course: Maestría en Sistemas de Información Geográfica y Teledetección (cursando actualmente)
